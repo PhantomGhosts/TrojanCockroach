@@ -21,22 +21,16 @@
   1. Download the full package from [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MinhasKamal/TrojanCockroach/tree/master/com/minhaskamal/trojanCockroach).
   2. Change the method **sendData()** of TrojanCockroach.cpp- place your email and password in the command.
 
-    <div align="center">
-      <img src="https://cloud.githubusercontent.com/assets/5456665/21505255/c5c3db2e-cc8f-11e6-834f-1312e566a7ed.png" alt="change email address" width="600px" height=auto/>
-    </div>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505255/c5c3db2e-cc8f-11e6-834f-1312e566a7ed.png" alt="change email address" width="600px" height=auto/></p>
   
   3. Compile **TrojanCockroach.cpp** & **Infect.cpp**. **Transmit.exe** is actually the executable distribution of [curl](https://curl.haxx.se) for Windows.
   4. Place **TrojanCockroach.exe**, **Infect.exe**, **Transmit.exe**, **Infect.lnk** & **TrojanCockroach.lnk** in the same folder. This is how they look-
   
-    <div align="center">
-      <img src="https://cloud.githubusercontent.com/assets/5456665/21505256/c5c4a982-cc8f-11e6-9b12-147fa7630e0f.png" alt="Trojan Cockroach full package" width=auto height=100px/>
-    </div>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505256/c5c4a982-cc8f-11e6-9b12-147fa7630e0f.png" alt="Trojan Cockroach full package" width=auto height=100px/></p>
 
   5. Now run **TrojanCockroach.exe** then insert a pendrive (see the magic!). You will get a hidden folder and link file in your pendrive. The hidden folder contains the full package, & the link file is actually renamed form of Infect.lnk.
   
-    <div align="center">
-      <img src="https://cloud.githubusercontent.com/assets/5456665/21505254/c5c0394c-cc8f-11e6-99be-16175b741c2a.PNG" alt="Trojan Cockroach infected pendrive" width=auto height=100px/>
-    </div>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505254/c5c0394c-cc8f-11e6-99be-16175b741c2a.PNG" alt="Trojan Cockroach infected pendrive" width=auto height=100px/></p>
   
 2. Attack
   1. Insert the USB-Drive in the subject's PC (Yes, you have to start the spreading process from somewhere!). Run Infect.lnk and the spyware will be injected.
@@ -46,17 +40,13 @@
   1. You need to wait several days (depending on the number of power on/off of the PC), before getting any data.
   2. After getting the email copy the full message to a text file. 
   
-    <div align="center">
-      <img src="https://cloud.githubusercontent.com/assets/5456665/21505503/2687fcd6-cc92-11e6-8bad-885fc9f77a78.PNG" alt="Trojan Cockroach infected pendrive" width="600px" height=auto/>
-    </div>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505503/2687fcd6-cc92-11e6-8bad-885fc9f77a78.PNG" alt="Trojan Cockroach infected pendrive" width="600px" height=auto/></p>
     
     As the message has come through email certain characters are converted. To resolve that --- --- ---. 
   
   3. Now, run **DecodeMessage.exe** for decoding the message as plain text. 
   
-    <div align="center">
-      <img src="https://cloud.githubusercontent.com/assets/5456665/21505528/59e92b0e-cc92-11e6-90bf-a050ed920ee9.png" alt="Trojan Cockroach infected pendrive" width="600px" height=auto/>
-    </div>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505528/59e92b0e-cc92-11e6-90bf-a050ed920ee9.png" alt="Trojan Cockroach infected pendrive" width="600px" height=auto/></p>
     
     In this phase, you can look for specific patterns in the text, and thus get rid of most of the useless parts (like- mouse click, or same key-group press as happens during gaming). 
 
